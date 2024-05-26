@@ -144,7 +144,7 @@ ol {
   font-family: 'Fira Sans Condensed';
   font-weight: 400;
   font-size: 18px;
-  line-height: 1;
+  line-height: 100%;
 }
 
 .title {
@@ -205,7 +205,7 @@ ol {
   font-family: 'Fira Sans Condensed', sans-serif;
   font-weight: 400;
   font-size: 18px;
-  line-height: 1;
+  line-height: 100%;
   background: transparent;
   appearance: none;
 }
@@ -252,7 +252,7 @@ ol {
   font-family: 'Fira Sans Condensed', sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1;
+  line-height: 100%;
   background-color: transparent;
   cursor: pointer;
   appearance: none;
